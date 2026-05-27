@@ -1,4 +1,4 @@
-from counting import max_freq
+from counting.counting import max_freq
 
 def test_case_1():
     nums = [1,1,1,2,3]
